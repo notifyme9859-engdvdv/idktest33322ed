@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <main className="min-h-screen bg-[#0b0b0e] text-white">
+    <main className="min-h-screen bg-gradient-to-br from-[#0b0b1e] via-[#1a0b2e] to-[#2d1b3d] text-white">
       <section className="relative overflow-hidden">
         <div className="mx-auto max-w-7xl px-6 py-24 lg:py-32">
           <div className="max-w-3xl">
